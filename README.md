@@ -4,6 +4,15 @@ Private github for the Community Ecology Research course.
 
 :mega: feel encouraged to add/change/delete/move content if you'd prefer so!
 
+
+## People
+
+GitHub username|Name
+---|---
+Tomdkkr|Tom Dekker
+richelbilderbeek|Richel Bilderbeek
+?|Joris
+
 ## Planning
 
 ### Detailed
