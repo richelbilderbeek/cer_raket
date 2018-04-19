@@ -34,9 +34,10 @@ Week|To do
 
 ## Links
 
- * [https://github.com/richelbilderbeek/babette_article](https://github.com/richelbilderbeek/babette_article): the `babette` article
- * [https://github.com/richelbilderbeek/giacomonday](https://github.com/richelbilderbeek/giacomonday): the Giacomonday
  *  :lock: [https://github.com/richelbilderbeek/raket_article](https://github.com/richelbilderbeek/raket_article)
+ * [https://github.com/richelbilderbeek/babette_article](https://github.com/richelbilderbeek/babette_article): the `babette` article
+ * [https://streaming3.service.rug.nl/p2gplayer/Player.aspx?id=c9GNy2](https://streaming3.service.rug.nl/p2gplayer/Player.aspx?id=c9GNy2): How to develop a package in R (video)
+ * [https://github.com/richelbilderbeek/giacomonday](https://github.com/richelbilderbeek/giacomonday): the Giacomonday
 
 ### Packages
 
