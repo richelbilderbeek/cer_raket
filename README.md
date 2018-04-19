@@ -9,7 +9,7 @@ Private github for the Community Ecology Research course.
 ### Detailed
 
  * [ ] TH 2018-04-16 17:00 J&T sent R GitHub usernames
- * [ ] TH 2018-04-16 17:00 R requested Peregrine accounts for J&T
+ * [x] TH 2018-04-16 17:00 R requested Peregrine accounts for J&T
  * [ ] TH 2018-04-16 18:00 R added J&T to `cer_raket` and `raket_article` 
  * [ ] MO 2018-04-23 16:00 meeting at big table fifth floor: what is this research about?
  * [ ] MO 2018-04-23 20:00 [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
