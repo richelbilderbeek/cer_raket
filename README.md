@@ -4,13 +4,12 @@ Private github for the Community Ecology Research course.
 
 :mega: feel encouraged to add/change/delete/move content if you'd prefer so!
 
-
 ## People
 
 GitHub username|Name
 ---|---
 `Tomdkkr`|Tom Dekker
-richelbilderbeek|Richel Bilderbeek
+`richelbilderbeek`|Richel Bilderbeek
 `J-Damhuis`|Joris
 
 ## Planning
@@ -20,12 +19,16 @@ richelbilderbeek|Richel Bilderbeek
  * [x] TH 2018-04-16 17:00 J&T sent R GitHub usernames
  * [x] TH 2018-04-16 17:00 R requested Peregrine accounts for J&T
  * [x] TH 2018-04-16 18:00 R added J&T to `cer_raket` and `raket_article` 
- * [ ] MO 2018-04-23 16:00 meeting at big table fifth floor: what is this research about?
+ * [x] MO 2018-04-23 16:00 meeting at big table fifth floor: what is this research about?
+ * [ ] TH 2018-04-26 15:00 
+    * What is git, GitHub, Travis? Able to commit to GitHub  
+    * What is an R package? Do `raket` on local computer
+    * Discuss articles
  * [ ] MO 2018-04-23 20:00 [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
  * [ ] MO 2018-05-07 20:00 [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
  * [ ] ?MO 2018-05-21 20:00 [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
- * [ ] ?MO 2018-05-21 20:00 [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
  * [ ] MO 2018-06-04 Presentation
+ * [ ] MO 2018-06-04 After presentation: informal evaluation at pub to be determined
  * [ ] MO 2018-06-04 20:00 [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
 
 ### Overview
@@ -44,6 +47,7 @@ Week|To do
 ## Links
 
  *  :lock: [https://github.com/richelbilderbeek/raket_article](https://github.com/richelbilderbeek/raket_article)
+ * [https://github.com/richelbilderbeek/Science](https://github.com/richelbilderbeek/Science): my scientific presentations, project name was formerly `WIRITTTE`
  * [https://github.com/richelbilderbeek/babette_article](https://github.com/richelbilderbeek/babette_article): the `babette` article
  * [https://github.com/richelbilderbeek/Peregrine](https://github.com/richelbilderbeek/Peregrine): my notes about the Peregrine computer cluster
  * [https://streaming3.service.rug.nl/p2gplayer/Player.aspx?id=c9GNy2](https://streaming3.service.rug.nl/p2gplayer/Player.aspx?id=c9GNy2): How to develop a package in R (video)
@@ -86,7 +90,7 @@ This will be a poster.
  * Weergave van onderzoeksgegevens: excellent would be only displaying info that is relevant in answering the research question
  * Presentatie van conclusies: excellent would be presenting conclusions that are answered by the research question
  * Gebruik literatuur: excellent would be that all literature that is relevant is cited where appropriate
- * Schriftelijke uitdrukkingsvaardigheden: excellent would be (1) text is simple, but not too simple, and (2) a random MSc student is able to explain what is researched
+ * Schriftelijke uitdrukkingsvaardigheden: excellent would be (1) text is simple, but not too simple, and (2) a random BSc student is able to explain what is researched
 
 #### 3. Presentatie
 
@@ -101,13 +105,13 @@ From Rampal Etienne:
 
  1. [ ] Be clear on your expectations. 
 
-   - [ ] [In progress] Make a timetable with the students on when what should be done.
-   - [ ] [Improve on Monday] Students sometimes complain about supervisor availability. Make clear when you are available for the students (what time, how many hours per week etc).
+   - [ ] [planned for Thursday] Make a timetable with the students on when what should be done.
+   - [ ] [discussed] Students sometimes complain about supervisor availability. Make clear when you are available for the students (what time, how many hours per week etc).
    - [ ] [Keep reminding students] Supervisors often complain that students do not put their research in a broader context; so be clear on this from the start.
  
- 2. [ ] [To be planned] Provide feedback on poster and presentations
+ 2. [ ] [agreed to plan] Provide feedback on poster and presentations
  
-   - [ ] [To be planned] Ideally let them practise with you as audience
+   - [ ] [agreed to plan] Ideally let them practise with you as audience
  
  3. [x] If there are any issues, please contact me asap.
  
