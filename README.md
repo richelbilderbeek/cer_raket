@@ -9,9 +9,9 @@ Private github for the Community Ecology Research course.
 
 GitHub username|Name
 ---|---
-Tomdkkr|Tom Dekker
+`Tomdkkr`|Tom Dekker
 richelbilderbeek|Richel Bilderbeek
-?|Joris
+`J-Damhuis`|Joris
 
 ## Planning
 
