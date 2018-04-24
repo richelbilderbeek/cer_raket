@@ -43,6 +43,7 @@ Week|To do
  * [https://github.com/richelbilderbeek/babette_article](https://github.com/richelbilderbeek/babette_article): the `babette` article
  * [https://github.com/richelbilderbeek/Peregrine](https://github.com/richelbilderbeek/Peregrine): my notes about the Peregrine computer cluster
  * [https://streaming3.service.rug.nl/p2gplayer/Player.aspx?id=c9GNy2](https://streaming3.service.rug.nl/p2gplayer/Player.aspx?id=c9GNy2): How to develop a package in R (video)
+ * [https://youtu.be/QABP8qEeM9o](https://youtu.be/QABP8qEeM9o): How to use `git` and GitHub and activate Travis CI, ignore the course's assignment
  * [https://github.com/richelbilderbeek/giacomonday](https://github.com/richelbilderbeek/giacomonday): the Giacomonday
 
 ## Packages
