@@ -1,13 +1,6 @@
 ######################################################################################
 ######################################################################################
 
-23 - 04 - 2018
-Read all the articles that were posted on Nestor. Then I was exploring github for a bit. 
-Installed BEAST2 & BEAUti 2. watched the video "babette comparison" and reproduced it in R. ran into a few errors but got it working eventually
-
-######################################################################################
-######################################################################################
-
 24 - 04 - 2018
 Watched the video "babette examples" and tried to reproduce it in R. however I could not get it to work
 tried to run the testfiles in the beast folder but I kept getting this message:
@@ -56,4 +49,10 @@ it is defined in the .Rmd file as: posterior <- run("test_output_0.fas",mcmc = m
 this line of code seems to be missing in examples.R
 
 
+######################################################################################
+######################################################################################
+
+23 - 04 - 2018
+Read all the articles that were posted on Nestor. Then I was exploring github for a bit. 
+Installed BEAST2 & BEAUti 2. watched the video "babette comparison" and reproduced it in R. ran into a few errors but got it working eventually
 
