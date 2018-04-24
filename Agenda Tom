@@ -1,5 +1,58 @@
-23 - 04 - 2018
+######################################################################################
+######################################################################################
 
+24 - 04 - 2018
+Watched the video "babette examples" and tried to reproduce it in R. however I could not get it to work
+tried to run the testfiles in the beast folder but I kept getting this message:
+
+Error in run_beast2("") : 
+  'input_filename' must be a valid BEAST2 XML fileFile '' is not a valid BEAST2 fileFALSE.
+  
+ Don't know how to get a valid BEAST2 file.
+ 
+ then tried to run a vignette because i could not get the example working.
+ tried to run "babette/vignettes/article.Rmd" 
+ Ran it with no problems. although difficult to interpret the values 
+ densitree plot seems to be good. 
+ 
+ tried to run the second vignette: "babette/vignettes/comparison.Rmd". 
+ got a few warning messages after running BEAST2 with a MRCA prior around that crown age:
+ 
+ Warning messages:
+1: In doTryCatch(return(expr), name, parentenv, handler) :
+  display list redraw incomplete
+2: In doTryCatch(return(expr), name, parentenv, handler) :
+  invalid graphics state
+3: In doTryCatch(return(expr), name, parentenv, handler) :
+  invalid graphics state
+4: In doTryCatch(return(expr), name, parentenv, handler) :
+  display list redraw incomplete
+5: In doTryCatch(return(expr), name, parentenv, handler) :
+  invalid graphics state
+6: In doTryCatch(return(expr), name, parentenv, handler) :
+  invalid graphics state
+7: In doTryCatch(return(expr), name, parentenv, handler) :
+  display list redraw incomplete
+8: In doTryCatch(return(expr), name, parentenv, handler) :
+  invalid graphics state
+9: In doTryCatch(return(expr), name, parentenv, handler) :
+  invalid graphics state
+  
+ It did run the calculation so probably not an issue. 
+ 
+third vignette: "babette/vignettes/demo.Rmd". no issues
+
+last vignette: "babette/vignettes/Examples.Rmd". no issues
+however in "babette/vignettes/examples.R" I got an error that "posterior" is not found
+as it is not defined in code. 
+it is defined in the .Rmd file as: posterior <- run("test_output_0.fas",mcmc = mcmc)
+this line of code seems to be missing in examples.R
+
+
+######################################################################################
+######################################################################################
+
+23 - 04 - 2018
 Read all the articles that were posted on Nestor. Then I was exploring github for a bit. 
 Installed BEAST2 & BEAUti 2. watched the video "babette comparison" and reproduced it in R. ran into a few errors but got it working eventually
 
