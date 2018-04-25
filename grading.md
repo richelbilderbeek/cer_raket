@@ -35,3 +35,16 @@ This will be a poster.
  * Presentatie-technisch (audiovisuele middelen): excellent would be aesthesically pleasing slides, few text, relevant pictures and graphs, graphs all have readable labels
  * Vermogen tot discussie: excellent would be clearly expressing (un)certainty in students' knowledge, being able to answer the questions that are answered in the literature used 
  * Mondeling uitdrukkingsvaardigheid: excellent would be that ideas are presented as simply as possible (but not simpler), presentation appears well-prepared (that is: has been practiced and refined multiple times)
+
+## Misc
+
+ * Plan your 40 working hours any way you like on the five weekdays. You are strongly encouraged to spend 8
+   hours per day (which includes lunch!) at exactly the same timespan each workday (e.g. 9:00-17:00). 
+   Deviations should be the exception, not the rule
+ * No higher grade for working more hours. Please spend the time you work well, please spend you free time
+   as such, only continue working when you feel like it
+ * Day off: FR April 27 (Koningsdag), ?TH May 10 (Hemelvaart), MO May 21 (Tweede Pinksterdag). You are strongly
+   encouraged to not work on those days
+ * Try not to worry when you don't get it the first read/try. It is expected you are human, thus imperfect.
+   Do signal your progress honestly
+ * No higher grade for visiting Giacomondays, although it will make the project feel more enjoyable
