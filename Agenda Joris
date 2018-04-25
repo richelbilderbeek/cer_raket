@@ -13,3 +13,5 @@ Tried to do the babette vignettes but they keep giving me an error:
 
 Error in run(get_babette_path("anthus_aco.fas"), mcmc = mcmc) : 
   unused argument (mcmc = mcmc)
+
+After some research I think this is because the scripts can't open BEAST or BEAUTI for some reason.
