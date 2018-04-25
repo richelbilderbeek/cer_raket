@@ -1,5 +1,11 @@
-23-03
+23-04
 Globally read all articles on nestor. Tried to install babette package but didn't get it to work yet. Familiarised myself with R a bit again.
 
 24-04
-Installed Git and used it to make this update.
+Installed Git and used it to make this update. Installed raket and all required packages. Went through the articles again.
+
+25-04
+Did the raket vignette and ran into an error when converting the file to long form:
+
+Error: 'to_long' is not an exported object from 'namespace:raket'
+
