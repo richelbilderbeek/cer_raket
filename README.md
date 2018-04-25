@@ -73,9 +73,16 @@ See [guidelines](guidelines.md)
 
 ## People
 
+So you can find them:
+
 GitHub username|Name
 ---|---
 `Tomdkkr`|Tom Dekker
 `richelbilderbeek`|Richel Bilderbeek
-`J-Damhuis`|Joris
+`J-Damhuis`|Joris Damhuis
+`PeterWindt`|Peter Windt
+`Neves-P`|Pedro Neves
+`TheoPannetier`|Theo Pannetier
+`mcrillo`|Marina Costa Rillo
+`RaphSch`|Raphael Scherrer
 
