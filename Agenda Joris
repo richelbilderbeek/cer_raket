@@ -9,4 +9,7 @@ Did "raket/vignettes/demo.Rmd" and ran into an error when converting the file to
 
 Error: 'to_long' is not an exported object from 'namespace:raket'
 
-Tried to do "babette/vignettes/article.Rmd" but it gave me the message "[1] FALSE" when trying to copy the files.
+Tried to do the babette vignettes but they keep giving me an error:
+
+Error in run(get_babette_path("anthus_aco.fas"), mcmc = mcmc) : 
+  unused argument (mcmc = mcmc)
