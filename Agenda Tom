@@ -1,3 +1,18 @@
+26 - 04 - 2018
+
+
+######################################################################################
+######################################################################################
+
+25 - 04 - 2018
+
+tried running vignette: raket/vignettes/demo.Rmd and was able to run it with no problems. 
+Joris however had some errors occurring and I tried to help him discover what was the problem.
+eventually he got it working too. 
+
+started looking at what travis,git,github is
+
+
 ######################################################################################
 ######################################################################################
 
