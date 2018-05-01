@@ -12,3 +12,12 @@ Error in run(get_babette_path("anthus_aco.fas"), mcmc = mcmc) :
   unused argument (mcmc = mcmc)
 
 After some research I think this is because the scripts can't open BEAST or BEAUTI for some reason.
+
+26-04
+Installed Git and the R packages on my laptop. Found out Java is outdated. 
+
+30-04
+Fixed the error in the 'run' operator by putting 'babette::' in front of it. Ran the babette vignettes.
+
+01-05
+Read through the issues posted on the GitHub.
