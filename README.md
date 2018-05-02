@@ -8,7 +8,6 @@ Github for the Community Ecology Research course.
 
 ### Future
 
- * [ ] MO 2018-04-30 20:00 extra [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
  * [ ] WE 2018-05-02 9:30-?13:00 TECE lab day, @richelbilderbeek wil present about PBD sampling
  * [ ] WE 2018-05-02 ?14:00 Meeting @J-Damhuis, @richelbilderbeek, @TomDkkr
     * [ ] What is this research about? What is the bigger picture? Etc.
@@ -46,6 +45,7 @@ Github for the Community Ecology Research course.
     * [x] What is an R package? Do `raket` on local computer
  * [x] TH 2018-04-26 15:00 
     * Discuss articles, planning, etc.
+ * [ ] MO 2018-04-30 20:00 extra [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
 
 ### Overview
 
