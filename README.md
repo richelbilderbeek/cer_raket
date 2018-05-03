@@ -8,12 +8,6 @@ Github for the Community Ecology Research course.
 
 ### Future
 
- * [ ] WE 2018-05-02 9:30-?13:00 TECE lab day, @richelbilderbeek wil present about PBD sampling
- * [ ] WE 2018-05-02 ?14:00 Meeting @J-Damhuis, @richelbilderbeek, @TomDkkr
-    * [ ] What is this research about? What is the bigger picture? Etc.
-    * [ ] Explore the Issues posted at this GitHub 
-    * [ ] Update planning
-    * [ ] ?Discuss `git` and GitHub branching
  * [ ] TH 2018-05-03 12:00-13:00 Peregrine by @TheoPannetier
  * [ ] TH 2018-05-03 15:00-15:14 Organizing files by @mcrillo
  * [ ] MO 2018-05-07 20:00 [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
@@ -45,7 +39,13 @@ Github for the Community Ecology Research course.
     * [x] What is an R package? Do `raket` on local computer
  * [x] TH 2018-04-26 15:00 
     * Discuss articles, planning, etc.
- * [ ] MO 2018-04-30 20:00 extra [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
+ * [x] MO 2018-04-30 20:00 extra [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
+ * [x] WE 2018-05-02 9:30-?13:00 TECE lab day, @richelbilderbeek wil present about PBD sampling
+ * [x] WE 2018-05-02 ?14:00 Meeting @J-Damhuis, @richelbilderbeek, @TomDkkr
+    * [ ] What is this research about? What is the bigger picture? Etc.
+    * [x] Explore the Issues posted at this GitHub 
+    * [x] Update planning: made goal to add tests and add sampling method to PBD
+    * [x] ?Discuss `git` and GitHub branching
 
 ### Overview
 
@@ -53,8 +53,8 @@ Week|To do
 ---|---
 16|Start project, create GitHub accounts, run vignettes
 17|Read and/or run experiments locally
-18|?Read and/or run experiments on Peregrine
-19|.
+18|Read, learn tools, add first test code to raket
+19|Read, learn tools, add first test code to Richel's fork of PBD
 20|.
 21|.
 22|.
