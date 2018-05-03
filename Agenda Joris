@@ -24,3 +24,11 @@ Read through the issues posted on the GitHub. Updated Java on my laptop and the 
 
 02-05
 Created a new branch on our GitHub and learnt how to commit to it (as you can see). Also managed to merge the branches.
+Started coding the tests for raket, but the "pbd_expected_n_extant" function was not defined yet (is this meant to be this way?)
+
+03-05
+Found the file where the "pbd_expected_n_extant" function is defined and finished the code for the tests.
+One potential issue I found is that when you test, the two values could be the same which results in an error. Is there a way to check
+whether some value is greater/smaller or equal than another value instead of just greater/smaller? Got around this by using parameters
+that were further apart.
+Installed MobaXterm and managed to log into the Peregrine cluster.
