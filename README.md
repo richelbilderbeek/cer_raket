@@ -15,11 +15,14 @@ Github for the Community Ecology Research course.
  * [ ] MO 2018-05-07 20:00 [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
  * [ ] WE 2018-05-09 11:00-12:00 `ape`, `victree` by @TheoPannetier and @mcrillo
  * [ ] WE 2018-05-09 14:00-15:00 `ggplot2` by @richelbilderbeek
+ * [ ] ?WE 2018-05-09 ?15:30-16:30 Progress meeting
  * [ ] TH 2018-05-10 National holiday
+ * [ ] ?MO 2018-05-14 ?15:00 Progress meeting (Richel finishes TRES staff meeting at 15:00 exactly)
  * [ ] ?MO 2018-05-14 20:00 Extra [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
  * [ ] (optional) WE 2018-05-16 9:30-10:30 TECE journal club, @richelbilderbeek leads discussion on some Open Science paper
  * [ ] ?WE 2018-05-16 ?11:00-12:00 How to create a complete R package, by @richelbilderbeek
  * [ ] ?WE 2018-05-16 ?14:00-15:00 `git` and GitHub branching by ?@J-Damhuis, ?@TomDkkr
+ * [ ] ?WE 2018-05-16 ?15:30-16:30 Progress meeting
  * [ ] MO 2018-05-21 National holiday
  * [ ] MO 2018-05-21 20:00 [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
  * [ ] MO 2018-05-28 Practice rough presentation and feedback on poster, just with @richelbilderbeek
