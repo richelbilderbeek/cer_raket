@@ -2,6 +2,9 @@
 
 created new branch "tom" on github with command prompt
 
+```
+Note richelbilderbeek: suggest to specify also which GitHub :-)
+```
 
 ######################################################################################
 ######################################################################################
@@ -54,6 +57,10 @@ Error in run_beast2("") :
   
  Don't know how to get a valid BEAST2 file.
  
+```
+Note richelbilderbeek: I assume you by now know what caused this error?
+```
+
  then tried to run a vignette because i could not get the example working.
  tried to run "babette/vignettes/article.Rmd" 
  Ran it with no problems. although difficult to interpret the values 
