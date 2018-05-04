@@ -13,6 +13,7 @@ Error in run(get_babette_path("anthus_aco.fas"), mcmc = mcmc) :
 
 ```
 Note richelbilderbeek: I assume you now know the error?
+Note J-Damhuis: Yup fixed it on 30-04
 ```
 
 After some research I think this is because the scripts can't open BEAST or BEAUTI for some reason.
@@ -41,8 +42,10 @@ whether some value is greater/smaller or equal than another value instead of jus
 that were further apart.
 
 ```
-Note richelbilderbeek: you could use testthat::expect_lte to test for 'less than or equal'  
+Note richelbilderbeek: you could use testthat::expect_lte to test for 'less than or equal' 
 ```
 
 Installed MobaXterm and managed to log into the Peregrine cluster.
 
+04-05
+Fixed the tests thanks to the advice richelbilderbeek gave me.
