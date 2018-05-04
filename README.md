@@ -8,19 +8,22 @@ Github for the Community Ecology Research course.
 
 ### Future
 
- * [ ] TH 2018-05-03 12:00-13:00 Peregrine by @TheoPannetier
- * [ ] TH 2018-05-03 15:00-15:14 Organizing files by @mcrillo
+ * [ ] MO 2018-05-07 15:00 Progress meeting
+   * [ ] Confirm @J-Damhuis and @TomDkkr teaching `git` branching at WE 2018-05-16
+   * [ ] Improve planning, suggest improving `PBD::sampletree`, add some smaller R tasks
+   * [ ] Go through updated grading scheme, discuss how to improve this 
  * [ ] MO 2018-05-07 20:00 [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
  * [ ] WE 2018-05-09 11:00-12:00 `ape`, `victree` by @TheoPannetier and @mcrillo
  * [ ] WE 2018-05-09 14:00-15:00 `ggplot2` by @richelbilderbeek
  * [ ] TH 2018-05-10 National holiday
  * [ ] ?MO 2018-05-14 20:00 Extra [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
  * [ ] (optional) WE 2018-05-16 9:30-10:30 TECE journal club, @richelbilderbeek leads discussion on some Open Science paper
- * [ ] ?WE 2018-05-16 ?14:00-15:00 `git` and GitHub branching by ?@J-Damhuis, ?@richelbilderbeek, ?@TomDkkr
+ * [ ] ?WE 2018-05-16 ?11:00-12:00 How to create a complete R package, by @richelbilderbeek
+ * [ ] ?WE 2018-05-16 ?14:00-15:00 `git` and GitHub branching by ?@J-Damhuis, ?@TomDkkr
  * [ ] MO 2018-05-21 National holiday
  * [ ] MO 2018-05-21 20:00 [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
  * [ ] MO 2018-05-28 Practice rough presentation and feedback on poster, just with @richelbilderbeek
- * [ ] ?MO 2018-05-28 20:00 Extra [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
+ * [ ] MO 2018-05-28 20:00 Extra [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
  * [ ] TH 2018-05-31 Practice rough presentation and feedback on poster, with other theoreticians
  * [ ] MO 2018-06-04 Presentation
  * [ ] MO 2018-06-04 After presentation: informal evaluation at pub to be determined
@@ -46,6 +49,8 @@ Github for the Community Ecology Research course.
     * [x] Explore the Issues posted at this GitHub 
     * [x] Update planning: made goal to add tests and add sampling method to PBD
     * [x] ?Discuss `git` and GitHub branching
+ * [x] TH 2018-05-03 12:00-13:00 Peregrine by @TheoPannetier
+ * [x] TH 2018-05-03 15:00-15:14 Organizing files by @mcrillo
 
 ### Overview
 
@@ -55,9 +60,9 @@ Week|To do
 17|Read and/or run experiments locally
 18|Read, learn tools, add first test code to raket
 19|Read, learn tools, add first test code to Richel's fork of PBD
-20|.
-21|.
-22|.
+20|Remind: what was research about again?
+21|Prepare poster and presentation. Rounding off assignments
+22|Practice presentation and poster
 23|MO final presentation and poster
 
 ## Links

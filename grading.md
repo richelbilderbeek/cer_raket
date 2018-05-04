@@ -2,39 +2,39 @@
 
 From [the official grading form](Beoordelingsformulier.pdf):
 
-## 1. Onderzoeksvaardigheden
+## 1. Onderzoeksvaardigheden (EN: 'research skills')
 
-### 1.a. Praktische werkzaamheden
+### 1.a. Praktische werkzaamheden (EN: 'practical work')
 
- * Inzet/belangstelling voor het werk: excellent would be, at the time things get hard and/or tedious, to remain positive and persevere
- * Initiatief en zelfstandigheid: excellent would be (1) to *propose* the supervisor what to do, and, when stuck: (2a) find own, original solutions, or (2b) ask other students
- * Kritische werkhouding bij het verzamelen van gegevens: excellent would be uncovering flaws multiple times 
- * Controleerbaarheid en nauwkeurigheid van analyses: excellent would be: (1) analysis is thoroughly tested, (2) analysis can be reproduced (by e.g. Travis CI)
- * Omgang met anderen (samenwerking): excellent would be: (1) first ask each other, (2) ask other students, (3) ask me 
+ * Inzet/belangstelling voor het werk (EN: 'commitment/interest for the job'): excellent would be, at the time things get hard and/or tedious, to remain positive and persevere
+ * Initiatief en zelfstandigheid (EN: 'initiative and autonomy'): excellent would be (1) to *propose* the supervisor what to do, and, when stuck: (2a) find own, original solutions, or (2b) ask other students
+ * Kritische werkhouding bij het verzamelen van gegevens (EN: 'critical attitude in the collection of data'): excellent would be uncovering flaws multiple times 
+ * Controleerbaarheid en nauwkeurigheid van analyses (EN: 'transparency/checkableness and accuracy of analysis'): excellent would be: (1) analysis is thoroughly tested, (2) analysis can be reproduced (by e.g. Travis CI)
+ * Omgang met anderen (samenwerking) (EN: 'behavior with others (cooperativeness)'): excellent would be: (1) first ask each other, (2) ask other students, (3) ask me 
 
-### 1.b. Wetenschappelijke onderbouwing
+### 1.b. Wetenschappelijke onderbouwing (EN: 'scientific foundation')
 
- * Afbakening probleemstelling en formulering hypothese / ontwerk opdracht: [TODO]
- * Onderzoeksopzet / ontwerpen van concepten (methode van aanpak): [TODO]
- * Analyse en interpretatie van resultaten / informatie: [TODO]
- * Onderzoek / ontwerp plaatsen in wetenschappelijke context (aansluiting bij / toepassing van bestaande theorie / producten)
- * Reflectie (en bijsturing) eigen handelen: excellent would be to write down your thoughts on a daily basis on this GitHub
-
-## 2. Schriftelijke rapportage
+ * Afbakening probleemstelling en formulering hypothese / ontwerk opdracht (EN: 'Clearly bounded problem and formulation of hypothesis / design of assignment'): excellent would be if the assignment indeed is describe unambiguously, not simpler, yet not too simple.  
+ * Onderzoeksopzet / ontwerpen van concepten (methode van aanpak) (EN: 'Research setup / design of concepts (method of tackling the project)'): excellent would be if the planning is focussed on solving the assignment, and only that assignment
+ * Analyse en interpretatie van resultaten / informatie (EN: 'analysis and interpretation of results'): excellent would be that the analysis indeed answers the questions posed by the assignment and the interpretation indeed follows from the data
+ * Onderzoek / ontwerp plaatsen in wetenschappelijke context (aansluiting bij / toepassing van bestaande theorie / producten) (EN: 'research / putting the project in a scientific context (connecting to / be relevant to existing theory / product)'): excellent would be if the poster and presentation both start from the bigger picture and follows more detailed literature to zoom in to the problem
+ * Reflectie (en bijsturing) eigen handelen (EN: 'reflection on (and adapting) own behavior'): excellent would be to write down your thoughts on a daily basis on this GitHub. It should contain some incorrect thoughts and insights that correct these
+ 
+## 2. Schriftelijke rapportage (EN: 'written report')
 
 This will be a poster.
 
- * Weergave van onderzoeksgegevens: excellent would be only displaying info that is relevant in answering the research question
- * Presentatie van conclusies: excellent would be presenting conclusions that are answered by the research question
- * Gebruik literatuur: excellent would be that all literature that is relevant is cited where appropriate
- * Schriftelijke uitdrukkingsvaardigheden: excellent would be (1) text is simple, but not too simple, and (2) a random BSc student is able to explain what is researched
+ * Weergave van onderzoeksgegevens (EN: 'presentation of research data'): excellent would be only displaying info that is relevant in answering the research question
+ * Presentatie van conclusies (EN 'presentation of conclusions'): excellent would be presenting conclusions that are answered by the research question
+ * Gebruik literatuur (EN: 'use of literature'): excellent would be that all literature that is relevant is cited where appropriate
+ * Schriftelijke uitdrukkingsvaardigheden (EN: 'skill in expressing oneself in writing'): excellent would be (1) text is simple, but not too simple, and (2) a random BSc student is able to explain what is researched
 
-## 3. Presentatie
+## 3. Presentatie (EN: 'presentation')
 
- * Verhaal-technisch (logische opbouw): excellent would be that the story starts from the big picture, zooms in to the academic problem, states the research question, then method, conclusion and discussion, ending with a birds-eye view
- * Presentatie-technisch (audiovisuele middelen): excellent would be aesthesically pleasing slides, few text, relevant pictures and graphs, graphs all have readable labels
- * Vermogen tot discussie: excellent would be clearly expressing (un)certainty in students' knowledge, being able to answer the questions that are answered in the literature used 
- * Mondeling uitdrukkingsvaardigheid: excellent would be that ideas are presented as simply as possible (but not simpler), presentation appears well-prepared (that is: has been practiced and refined multiple times)
+ * Verhaal-technisch (logische opbouw) (EN: 'story-technically (logical structure)'): excellent would be that the story starts from the big picture, zooms in to the academic problem, states the research question, then method, conclusion and discussion, ending with a birds-eye view
+ * Presentatie-technisch (audiovisuele middelen) (EN: 'presentation-technically (audio-visual means)'): excellent would be aesthesically pleasing slides, few text, relevant pictures and graphs, graphs all have readable labels
+ * Vermogen tot discussie (EN: 'ability to discuss'): excellent would be clearly expressing (un)certainty in students' knowledge, being able to answer the questions that are answered in the literature used 
+ * Mondeling uitdrukkingsvaardigheid (EN: 'ability to express oneself verbally'): excellent would be that ideas are presented as simply as possible (but not simpler), presentation appears well-prepared (that is: has been practiced and refined multiple times)
 
 ## Misc
 
