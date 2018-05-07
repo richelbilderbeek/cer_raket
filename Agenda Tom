@@ -1,4 +1,37 @@
-03 -05 - 2018 
+07 - 05 - 2018 
+
+looked at te the test again but still got the same error. I will ask Joris today what went wrong so maybe we can work it out together. 
+after we get it running I will add the test at home. 
+
+
+######################################################################################
+######################################################################################
+
+
+04 - 05 - 2018
+
+tried to add a few test to pbd_expected_n_extant.R. but when I ran the test it gave me an error that it could not find the function. 
+got it running before with Joris at school, but now it does not work anymore???
+
+Error: Test failed: 'minimal use'
+* could not find function "pbd_expected_n_extant"
+1: testthat::expect_silent(pbd_expected_n_extant(crown_age = 1, scr = 1, sirg = 1, siri = 1, 
+       erg = 0, eri = 0)) at :3
+2: quasi_capture(enquo(object), evaluate_promise)
+3: capture(act$val <- eval_bare(get_expr(quo), get_env(quo)))
+4: withr::with_output_sink(temp, withCallingHandlers(withVisible(code), warning = handle_warning, 
+       message = handle_message))
+5: force(code)
+6: withCallingHandlers(withVisible(code), warning = handle_warning, message = handle_message)
+7: withVisible(code)
+8: eval_bare(get_expr(quo), get_env(quo))
+> 
+
+######################################################################################
+######################################################################################
+
+
+03 - 05 - 2018 
 
 created new branch "tom" on github with command prompt
 
