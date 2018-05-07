@@ -48,4 +48,7 @@ Note richelbilderbeek: you could use testthat::expect_lte to test for 'less than
 Installed MobaXterm and managed to log into the Peregrine cluster.
 
 04-05
-Fixed the tests thanks to the advice richelbilderbeek gave me.
+Fixed the tests thanks to the advice richelbilderbeek gave me. Tried adding tests for the PBD package but couldn't understand the functions well enough.
+
+07-05
+Read the updated raket article, found a grammar mistake, didn't recognise any changes since the last time I read it.
