@@ -59,3 +59,4 @@ Looked into the code for the "PBD::pbd_sim" function to figure out what an L tab
 id	|	parent	|	time they become incipient species	|	time they become good species	|	time of extinction	|	Species id
 
 I'm not sure what the actual difference is between using crown age and stem age but I feel like knowing that isn't necessary to understand the "PBD::sampletree" function.
+Added tests for "PBD:::sampletree" using the samplemethods "oldest" and "youngest".
