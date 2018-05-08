@@ -48,4 +48,15 @@ Note richelbilderbeek: you could use testthat::expect_lte to test for 'less than
 Installed MobaXterm and managed to log into the Peregrine cluster.
 
 04-05
-Fixed the tests thanks to the advice richelbilderbeek gave me.
+Fixed the tests thanks to the advice richelbilderbeek gave me. Tried adding tests for the PBD package but couldn't understand the functions well enough.
+
+07-05
+Read the updated raket article, found a grammar mistake, didn't recognise any changes since the last time I read it.
+
+08-05
+Looked into the code for the "PBD::pbd_sim" function to figure out what an L table is made up of. This is what my understanding is right now:
+
+id	|	parent	|	time they become incipient species	|	time they become good species	|	time of extinction	|	Species id
+
+I'm not sure what the actual difference is between using crown age and stem age but I feel like knowing that isn't necessary to understand the "PBD::sampletree" function.
+Added tests for "PBD:::sampletree" using the samplemethods "oldest" and "youngest".

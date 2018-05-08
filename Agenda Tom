@@ -38,6 +38,13 @@ Error: Test failed: 'minimal use'
 8: eval_bare(get_expr(quo), get_env(quo))
 > 
 
+```
+Note RJCB: try loading the package first:
+
+library(raket)
+
+Then it will indeed find the function.
+```
 ######################################################################################
 ######################################################################################
 
