@@ -52,3 +52,10 @@ Fixed the tests thanks to the advice richelbilderbeek gave me. Tried adding test
 
 07-05
 Read the updated raket article, found a grammar mistake, didn't recognise any changes since the last time I read it.
+
+08-05
+Looked into the code for the "PBD::pbd_sim" function to figure out what an L table is made up of. This is what my understanding is right now:
+
+id	|	parent	|	time they become incipient species	|	time they become good species	|	time of extinction	|	Species id
+
+I'm not sure what the actual difference is between using crown age and stem age but I feel like knowing that isn't necessary to understand the "PBD::sampletree" function.
