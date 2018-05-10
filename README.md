@@ -8,21 +8,15 @@ Github for the Community Ecology Research course.
 
 ### Future
 
- * [ ] MO 2018-05-07 15:00 Progress meeting
-   * [ ] Confirm @J-Damhuis and @TomDkkr teaching `git` branching at WE 2018-05-16
-   * [ ] Improve planning, suggest improving `PBD::sampletree`, add some smaller R tasks
-   * [ ] Go through updated grading scheme, discuss how to improve this 
- * [ ] MO 2018-05-07 20:00 [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
- * [ ] WE 2018-05-09 11:00-12:00 `ape`, `victree` by @TheoPannetier and @mcrillo
- * [ ] WE 2018-05-09 14:00-15:00 `ggplot2` by @richelbilderbeek
- * [ ] ?WE 2018-05-09 ?15:30-16:30 Progress meeting
- * [ ] TH 2018-05-10 National holiday
- * [ ] ?MO 2018-05-14 ?15:00 Progress meeting (Richel finishes TRES staff meeting at 15:00 exactly)
- * [ ] ?MO 2018-05-14 20:00 Extra [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
+ * [ ] MO 2018-05-14 15:00 Progress meeting (Richel finishes TRES staff meeting at 15:00 exactly)
+    * [ ] Students should be able to tell 'What is my research about?'
+ * [ ] MO 2018-05-14 20:00 Extra [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
+ * [ ] TU 2018-05-14 Echange dag: in the morning students Merel, Nils, Ren are with us, in the afternoom Joris and Tom will visit them
  * [ ] (optional) WE 2018-05-16 9:30-10:30 TECE journal club, @richelbilderbeek leads discussion on some Open Science paper
- * [ ] ?WE 2018-05-16 ?11:00-12:00 How to create a complete R package, by @richelbilderbeek
- * [ ] ?WE 2018-05-16 ?14:00-15:00 `git` and GitHub branching by ?@J-Damhuis, ?@TomDkkr
- * [ ] ?WE 2018-05-16 ?15:30-16:30 Progress meeting
+ * [ ] WE 2018-05-16 11:00-12:00 How to create a complete R package, by @richelbilderbeek
+ * [ ] WE 2018-05-16 14:00-15:00 `git` and GitHub branching by @J-Damhuis, @TomDkkr
+ * [ ] WE 2018-05-16 15:30-16:30 Progress meeting
+    * [ ] How to work on the PBD package again?
  * [ ] MO 2018-05-21 National holiday
  * [ ] MO 2018-05-21 20:00 [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
  * [ ] MO 2018-05-28 Practice rough presentation and feedback on poster, just with @richelbilderbeek
@@ -48,12 +42,23 @@ Github for the Community Ecology Research course.
  * [x] MO 2018-04-30 20:00 extra [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
  * [x] WE 2018-05-02 9:30-?13:00 TECE lab day, @richelbilderbeek wil present about PBD sampling
  * [x] WE 2018-05-02 ?14:00 Meeting @J-Damhuis, @richelbilderbeek, @TomDkkr
-    * [ ] What is this research about? What is the bigger picture? Etc.
+    * [ ] [MOVED] What is this research about? What is the bigger picture? Etc.
     * [x] Explore the Issues posted at this GitHub 
     * [x] Update planning: made goal to add tests and add sampling method to PBD
     * [x] ?Discuss `git` and GitHub branching
  * [x] TH 2018-05-03 12:00-13:00 Peregrine by @TheoPannetier
  * [x] TH 2018-05-03 15:00-15:14 Organizing files by @mcrillo
+ * [x] MO 2018-05-07 15:00 Progress meeting
+   * [x] Confirm @J-Damhuis and @TomDkkr teaching `git` branching at WE 2018-05-16
+   * [x] Improve planning
+   * [ ] [MOVED] Suggest improving `PBD::sampletree`, add some smaller R tasks.
+   * [x] Go through updated grading scheme, discuss how to improve this 
+ * [x] MO 2018-05-07 20:00 [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
+ * [x] WE 2018-05-09 11:00-12:00 `ape`, `victree` by @TheoPannetier and @mcrillo
+ * [x] WE 2018-05-09 14:00-15:00 `ggplot2` by @richelbilderbeek
+ * [x] WE 2018-05-09 ?15:30-16:30 Progress meeting
+ * [x] TH 2018-05-10 National holiday
+ * [x] FR 2018-05-11 Day off. If not, we agreed on recovering those eight lost hours
 
 ### Overview
 
@@ -62,8 +67,8 @@ Week|To do
 16|Start project, create GitHub accounts, run vignettes
 17|Read and/or run experiments locally
 18|Read, learn tools, add first test code to raket
-19|Read, learn tools, add first test code to Richel's fork of PBD
-20|Remind: what was research about again?
+19|Read, learn tools, add first test code to Richel's fork of PBD. What is this research about?
+20|What is this research about? Teaching `git` branching. Work on PBD 
 21|Prepare poster and presentation. Rounding off assignments
 22|Practice presentation and poster
 23|MO final presentation and poster
