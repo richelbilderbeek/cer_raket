@@ -60,3 +60,15 @@ id	|	parent	|	time they become incipient species	|	time they become good species
 
 I'm not sure what the actual difference is between using crown age and stem age but I feel like knowing that isn't necessary to understand the "PBD::sampletree" function.
 Added tests for "PBD:::sampletree" using the samplemethods "oldest" and "youngest".
+
+09-05
+Helped Tom understand what I had found out about the "pbd_sim" function.
+
+14-05
+Read the raket article again. Wanted to check how the "pbd_expected_n_extant" function worked and saw that I could improve the tests and error messages
+and so I did. 
+
+15-05
+Improved the tests and error messages for the "pbd_sim_checked" function. In the function itself it checked if the speciation completion rate was greater
+or equal to 0 while in the tests it checked if it was greater than 0. I assume a speciation completion rate of 0 is not a case that should give an error
+so I changed the tests.
