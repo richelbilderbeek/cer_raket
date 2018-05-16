@@ -8,17 +8,14 @@ Github for the Community Ecology Research course.
 
 ### Future
 
- * [ ] MO 2018-05-14 15:00 Progress meeting (Richel finishes TRES staff meeting at 15:00 exactly)
-    * [ ] Students should be able to tell 'What is my research about?'
- * [ ] MO 2018-05-14 20:00 Extra [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
- * [ ] TU 2018-05-14 Echange dag: in the morning students Merel, Nils, Ren are with us, in the afternoom Joris and Tom will visit them
- * [ ] (optional) WE 2018-05-16 9:30-10:30 TECE journal club, @richelbilderbeek leads discussion on some Open Science paper
- * [ ] WE 2018-05-16 11:00-12:00 How to create a complete R package, by @richelbilderbeek
- * [ ] WE 2018-05-16 14:00-15:00 `git` and GitHub branching by @J-Damhuis, @TomDkkr
  * [ ] WE 2018-05-16 15:30-16:30 Progress meeting
     * [ ] How to work on the PBD package again?
+ * [ ] TH 2018-05-16 Richel prepares PBD tests and Peregrine runs
  * [ ] MO 2018-05-21 National holiday
  * [ ] MO 2018-05-21 20:00 [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
+ * [ ] TU 2018-05-22 Progress meeting 15:00
+  * [ ] Progress solving Issues
+  * [ ] Prepare Peregrine runs (Richel prepares this)
  * [ ] MO 2018-05-28 Practice rough presentation and feedback on poster, just with @richelbilderbeek
  * [ ] MO 2018-05-28 20:00 Extra [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
  * [ ] TH 2018-05-31 Practice rough presentation and feedback on poster, with other theoreticians
@@ -59,6 +56,13 @@ Github for the Community Ecology Research course.
  * [x] WE 2018-05-09 ?15:30-16:30 Progress meeting
  * [x] TH 2018-05-10 National holiday
  * [x] FR 2018-05-11 Day off. If not, we agreed on recovering those eight lost hours
+ * [ ] MO 2018-05-14 15:00 Progress meeting (Richel finishes TRES staff meeting at 15:00 exactly)
+    * [ ] Students should be able to tell 'What is my research about?'
+ * [ ] MO 2018-05-14 20:00 Extra [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
+ * [ ] TU 2018-05-14 Echange dag: in the morning students Merel, Nils, Ren are with us, in the afternoom Joris and Tom will visit them
+ * [ ] (optional) WE 2018-05-16 9:30-10:30 TECE journal club, @richelbilderbeek leads discussion on some Open Science paper
+ * [ ] WE 2018-05-16 11:00-12:00 How to create a complete R package, by @richelbilderbeek
+ * [ ] WE 2018-05-16 14:00-15:00 `git` and GitHub branching by @J-Damhuis, @TomDkkr
 
 ### Overview
 
