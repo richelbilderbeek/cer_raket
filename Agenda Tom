@@ -1,10 +1,8 @@
 18 - 05 - 2018
 
 Added test to `pbd_get_exp_n_lineages_pb`. 
-saw that Joris specified "if (ni < 0.0) { stop("'ni' must be zero or positive")}" twice in the code. might not be necessary for it to work...?
-
-
-
+saw that Joris specified "if (ni < 0.0) { stop("'ni' must be zero or positive")}" twice in the code. 
+might not be necessary for it to work...?
 
 ######################################################################################
 ######################################################################################
