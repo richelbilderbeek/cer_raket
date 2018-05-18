@@ -79,3 +79,12 @@ the "pbd_get_exp_n_lineages_pb" function but found out the equations richelbilde
 
 17-05
 Found the right equations and finished writing the function.
+
+18-05
+Spent some time looking on Web of Science for the equations that give the expected number of lineages for a PBD model, but couldn't find anything.
+Started working on adding the samplemethods "shortest" and "oldest" to the "PBD:::sampletree" function. First I thought I should just take the most recent
+node for each species, but I found out that that didn't work. I don't really remember what I did next (I should probably have done a better job keeping
+track of my thought process), but in the end I believe I succeeded by taking the most recent time a species gave rise to a new species for those which
+gave indeed rise to a new species and by taking the speciation initiation time for the species that didn't give rise to a new species.
+I did my best to check for style errors, but when I used the "lintr" package on my local computer, a huge number of errors came up for most files in the
+"PBD" package.
