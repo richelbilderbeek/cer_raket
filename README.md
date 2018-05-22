@@ -8,11 +8,9 @@ Github for the Community Ecology Research course.
 
 ### Future
 
- * [ ] TU 2018-05-22 Progress meeting 15:00
-  * [ ] What kind of experiment to perform?
-  * [ ] Progress solving Issues
-  * [x] Prepare Peregrine runs (Richel prepares this)
- * [ ] MO 2018-05-28 Practice rough presentation and feedback on poster, just with @richelbilderbeek
+ * [ ] MO 2018-05-22 Progress meeting 15:00
+   * [ ] Rough presentation,
+   * [ ] Rough poster
  * [ ] MO 2018-05-28 20:00 Extra [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
  * [ ] TH 2018-05-31 Practice rough presentation and feedback on poster, with other theoreticians
  * [ ] MO 2018-06-04 Presentation
@@ -67,6 +65,11 @@ Github for the Community Ecology Research course.
     * [x] PBD tests
  * [x] MO 2018-05-21 National holiday
  * [x] MO 2018-05-21 20:00 [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
+ * [X] TU 2018-05-22 Progress meeting 15:00
+  * [X] Criticial thinking
+  * [X] What kind of experiment to perform?
+  * [X] Progress solving Issues
+  * [x] Prepare Peregrine runs (Richel prepares this)
 
 ### Overview
 
