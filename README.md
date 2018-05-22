@@ -8,15 +8,10 @@ Github for the Community Ecology Research course.
 
 ### Future
 
- * [ ] TH 2018-05-16 Richel prepares PBD tests and Peregrine runs
-    * [ ] Constant clock rate
-    * [ ] Peregrine runs
-    * [ ] PBD tests
- * [ ] MO 2018-05-21 National holiday
- * [ ] MO 2018-05-21 20:00 [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
  * [ ] TU 2018-05-22 Progress meeting 15:00
+  * [ ] What kind of experiment to perform?
   * [ ] Progress solving Issues
-  * [ ] Prepare Peregrine runs (Richel prepares this)
+  * [x] Prepare Peregrine runs (Richel prepares this)
  * [ ] MO 2018-05-28 Practice rough presentation and feedback on poster, just with @richelbilderbeek
  * [ ] MO 2018-05-28 20:00 Extra [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
  * [ ] TH 2018-05-31 Practice rough presentation and feedback on poster, with other theoreticians
@@ -66,6 +61,12 @@ Github for the Community Ecology Research course.
  * [x] WE 2018-05-16 14:00-15:00 `git` and GitHub branching by @J-Damhuis, @TomDkkr
  * [x] WE 2018-05-16 15:30-16:30 Progress meeting
     * [x] How to work on the PBD package again?
+ * [x] TH 2018-05-16 Richel prepares PBD tests and Peregrine runs
+    * [x] Constant clock rate
+    * [x] Peregrine runs
+    * [x] PBD tests
+ * [x] MO 2018-05-21 National holiday
+ * [x] MO 2018-05-21 20:00 [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
 
 ### Overview
 
