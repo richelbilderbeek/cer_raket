@@ -1,3 +1,18 @@
+23 - 05 - 2018
+
+Tried to use the cluster but got an error message after installing the stringr package. when I tried to install "sbatch install_raket" it said: 
+sbatch: error: Unable to open file install_raket
+eventhough I installed the stringr package succesfully. 
+
+then tried to install raket using devtools inside R within the cluster. just to see if it might work this way. 
+it didn't...
+same error message
+
+
+
+######################################################################################
+######################################################################################
+
 18 - 05 - 2018
 
 Added test to `pbd_get_exp_n_lineages_pb`. 
