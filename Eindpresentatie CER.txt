@@ -1,0 +1,19 @@
+1. Waar doet richel onderzoek naar? in het kort.
+2. bigger picture - waarom is dit onderzoek van belang?
+3. pipeline van richels onderzoek 
+	stap 1: generate parameters
+	stap 2: gebruik PBD sim om een PBD boom te simuleren
+	stap 3: sample een good species tree uit een incipent tree
+	stap 4: generate DNA alignement uit de good species tree
+	stap 5: simulate BD tree uit DNA -> posteriors ~ 1000. most likely is most represented
+	stap 6: compare posteriors with good species tree using nLTT
+	stap 7: visualize data with violin plots
+4. onze contributie 
+	Joris: 2 nieuwe sample methods toegevoegd, shortest & longest.
+	Beide: tests toegevoegd om de code coverage te vergroten. nieuwe functie toegevoegd: pbd_get_exp_n_lineages_pb met tests.
+	Tom: -
+5. mogelijke resultaten van peregrine cluster.
+
+
+!!!! critische vraag !!!!
+

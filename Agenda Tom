@@ -9,6 +9,12 @@ it didn't...
 same error message
 
 
+new error message after trying sbatch install_raket:
+
+sbatch: error: Batch script contains DOS line breaks (\r\n)
+sbatch: error: instead of expected UNIX line breaks (\n).
+
+this is probably due to a linux - windows problem.
 
 ######################################################################################
 ######################################################################################
