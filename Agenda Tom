@@ -1,3 +1,19 @@
+
+
+still runnng on the cluster
+           1273408   regular create_o s2754959  R    1:12:00      1 pg-node059
+           1273412   regular create_o s2754959  R    1:12:00      1 pg-node126
+           1273421   regular create_o s2754959  R    1:12:00      1 pg-node171
+           1273427   regular create_o s2754959  R    1:12:00      1 pg-node185
+           1273428   regular create_o s2754959  R    1:12:00      1 pg-node185
+           1273432   regular create_o s2754959  R    1:12:00      1 pg-node195
+           1273433   regular create_o s2754959  R    1:12:00      1 pg-node195
+           1273434   regular create_o s2754959  R    1:12:00      1 pg-node195
+           1273397   regular create_o s2754959  R    1:12:01      1 pg-node033
+
+######################################################################################
+######################################################################################
+
 23 - 05 - 2018
 
 Tried to use the cluster but got an error message after installing the stringr package. when I tried to install "sbatch install_raket" it said: 
@@ -9,12 +25,6 @@ it didn't...
 same error message
 
 
-new error message after trying sbatch install_raket:
-
-sbatch: error: Batch script contains DOS line breaks (\r\n)
-sbatch: error: instead of expected UNIX line breaks (\n).
-
-this is probably due to a linux - windows problem.
 
 ######################################################################################
 ######################################################################################
