@@ -1,4 +1,29 @@
+28 - 05 - 2018
 
+used a git clone from raket on the peregrine cluster which seems to solve the problem of the DOS linebreaks. 
+might be usefull to add this in the pipeline for windows users.
+
+ran de pipeline again in peregrine to get another indication at the amount of time the calculation will cost. 
+tried opening the output files in R to get a better understanding why some output files take a lot longer to calculate.
+H0 = bigger tree takes more time to calculate than smaller trees. 
+H1 = -
+
+couldn't open the output files in R, got a warning message:
+
+During startup - Warning message:
+Setting LC_CTYPE=nl_NL.UTF-8 failed 
+WARNING: Failed to restore workspace from 'C:/Users/TOMDEK~1/DOCUME~1/MobaXterm/slash/RemoteFiles/134146_2_1/1.RDa'
+Reason: bad restore file magic number (file may be corrupted) -- no data loaded
+
+Seems you cannot open the files in R from the MobaXterm directory.
+
+
+Then added the handcalculations to pbd_get_exp_n_lineages_pb.R
+Tested for both Ng = 1, Ni = 0 and Ng = 0, Ni = 1 and the other parameters I just set randomly. 
+They both gave the same output as the function itself. 
+
+######################################################################################
+######################################################################################
 
 still runnng on the cluster
            1273408   regular create_o s2754959  R    1:12:00      1 pg-node059
