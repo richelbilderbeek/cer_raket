@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+18 - 05 - 2018
+
+Added test to `pbd_get_exp_n_lineages_pb`. 
+saw that Joris specified "if (ni < 0.0) { stop("'ni' must be zero or positive")}" twice in the code. might not be necessary for it to work...?
+
+
+
+=======
 28 - 05 - 2018
 
 used a git clone from raket on the peregrine cluster which seems to solve the problem of the DOS linebreaks. 
@@ -66,6 +75,7 @@ In both cases ni cannot be smaller than 0.
 ```
 
 yes, you're right :)
+>>>>>>> master
 
 ######################################################################################
 ######################################################################################
