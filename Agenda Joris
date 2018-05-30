@@ -60,3 +60,50 @@ id	|	parent	|	time they become incipient species	|	time they become good species
 
 I'm not sure what the actual difference is between using crown age and stem age but I feel like knowing that isn't necessary to understand the "PBD::sampletree" function.
 Added tests for "PBD:::sampletree" using the samplemethods "oldest" and "youngest".
+
+09-05
+Helped Tom understand what I had found out about the "pbd_sim" function.
+
+14-05
+Read the raket article again. Wanted to check how the "pbd_expected_n_extant" function worked and saw that I could improve the tests and error messages
+and so I did. 
+
+15-05
+Improved the tests and error messages for the "pbd_sim_checked" function. In the function itself it checked if the speciation completion rate was greater
+or equal to 0 while in the tests it checked if it was greater than 0. I assume a speciation completion rate of 0 is not a case that should give an error
+so I changed the tests.
+
+16-05
+Tried to help find the cause of an error in the commits on the raket GitHub but richelbilderbeek found the cause before I got too far. Got started on
+the "pbd_get_exp_n_lineages_pb" function but found out the equations richelbilderbeek gave us were not the right ones.
+
+17-05
+Found the right equations and finished writing the function.
+
+18-05
+Spent some time looking on Web of Science for the equations that give the expected number of lineages for a PBD model, but couldn't find anything.
+Started working on adding the samplemethods "shortest" and "oldest" to the "PBD:::sampletree" function. First I thought I should just take the most recent
+node for each species, but I found out that that didn't work. I don't really remember what I did next (I should probably have done a better job keeping
+track of my thought process), but in the end I believe I succeeded by taking the most recent time a species gave rise to a new species for those which
+gave indeed rise to a new species and by taking the speciation initiation time for the species that didn't give rise to a new species.
+I did my best to check for style errors, but when I used the "lintr" package on my local computer, a huge number of errors came up for most files in the
+"PBD" package.
+
+22-05
+Allowed the 'pbd_sim' function to use the new samplemethods. Found out the new samplemethods weren't yet working by adding them to the 'pbd_find_scenario' 
+function and using this function to check for scenarios that proved the new samplemethods didn't work. Spent some time looking for the cause of this and 
+in the end I thought it was because of the way the PBD trees are simulated using soc=2 which makes it so the order of IDs is not the same order as the order 
+of speciation initiation time.
+
+23-05
+Turns out my hypothesis was wrong. I just had to make sure a daugher's 'importance' was set at the same time as its parent if they had a different species
+ID. This only worked for samplemethod 'shortest' however. I spent a long time trying to figure out how to make 'longest' work as well, but I wasn't able to.
+
+24-05
+richelbilderbeek let me know that I had changed the default output of the 'pbd_sim' function, which I wasn't supposed to. I was unaware this was even a problem
+on the develop branch, since the develop branch isn't used by the public, but richelbilderbeek told me it would be a problem if he were to merge it with the 
+master branch. So I improved the function to only change the output if it was specified by an argument, and I added tests to make sure this wouldn't happen again.
+Set up a rough first draft of our presentation and poster together with Tom. We also managed to let the Peregrine cluster run a job for us.
+
+25-05
+Found out how to make the samplemethod 'longest' work. It was surprisingly simple in comparison to all the things I tried to do on 23-05.
