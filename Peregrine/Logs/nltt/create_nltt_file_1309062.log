@@ -1,0 +1,41 @@
+slurmstepd: error: Unable to create TMPDIR [/local/1309004]: Permission denied
+slurmstepd: error: Setting TMPDIR to /tmp
+raket::create_nltt_file("out_62.RDa","nltt_62.RDa")
+
+
+###############################################################################
+Peregrine Cluster
+Job 1309062 for user 's2936941'
+Finished at: Tue May 29 22:06:13 CEST 2018
+
+Job details:
+============
+
+Name                : create_nltt_file
+User                : s2936941
+Partition           : regular
+Nodes               : pg-node042
+Cores               : 1
+State               : COMPLETED
+Submit              : 2018-05-29T22:05:03
+Start               : 2018-05-29T22:05:56
+End                 : 2018-05-29T22:06:13
+Reserved walltime   : 01:00:00
+Used walltime       : 00:00:17
+Used CPU time       : 00:00:13 (efficiency: 77.51%)
+% User (Computation): 94.24%
+% System (I/O)      :  5.75%
+Mem reserved        : 20G/node
+Max Mem used        : 12.00K (pg-node042)
+Max Disk Write      : 0.00  (pg-node042)
+Max Disk Read       : 0.00  (pg-node042)
+
+
+Acknowledgements:
+=================
+
+Please see this page if you want to acknowledge Peregrine in your publications:
+
+https://redmine.hpc.rug.nl/redmine/projects/peregrine/wiki/ScientificOutput
+
+################################################################################

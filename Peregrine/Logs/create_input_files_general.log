@@ -1,0 +1,85 @@
+
+The following have been reloaded with a version change:
+  1) FFTW/3.3.4-gompi-2016a => FFTW/3.3.7-gompi-2018a
+  2) GCC/4.9.3-2.25 => GCC/6.4.0-2.28
+  3) GCCcore/4.9.3 => GCCcore/6.4.0
+  4) OpenBLAS/0.2.15-GCC-4.9.3-2.25-LAPACK-3.6.0 => OpenBLAS/0.2.20-GCC-6.4.0-2.28
+  5) OpenMPI/1.10.3-GCC-4.9.3-2.25 => OpenMPI/2.1.2-GCC-6.4.0-2.28
+  6) ScaLAPACK/2.0.2-gompi-2016a-OpenBLAS-0.2.15-LAPACK-3.6.0 => ScaLAPACK/2.0.2-gompi-2018a-OpenBLAS-0.2.20
+  7) XZ/5.2.2-foss-2016a => XZ/5.2.3-GCCcore-6.4.0
+  8) binutils/2.25-GCCcore-4.9.3 => binutils/2.28-GCCcore-6.4.0
+  9) foss/2016a => foss/2018a
+ 10) gompi/2016a => gompi/2018a
+ 11) hwloc/1.11.2-GCC-4.9.3-2.25 => hwloc/1.11.8-GCCcore-6.4.0
+ 12) numactl/2.0.11-GCC-4.9.3-2.25 => numactl/2.0.11-GCCcore-6.4.0
+
+ [1] "/home/s2936941/raket/scripts/1.RDa"  "/home/s2936941/raket/scripts/2.RDa" 
+ [3] "/home/s2936941/raket/scripts/3.RDa"  "/home/s2936941/raket/scripts/4.RDa" 
+ [5] "/home/s2936941/raket/scripts/5.RDa"  "/home/s2936941/raket/scripts/6.RDa" 
+ [7] "/home/s2936941/raket/scripts/7.RDa"  "/home/s2936941/raket/scripts/8.RDa" 
+ [9] "/home/s2936941/raket/scripts/9.RDa"  "/home/s2936941/raket/scripts/10.RDa"
+[11] "/home/s2936941/raket/scripts/11.RDa" "/home/s2936941/raket/scripts/12.RDa"
+[13] "/home/s2936941/raket/scripts/13.RDa" "/home/s2936941/raket/scripts/14.RDa"
+[15] "/home/s2936941/raket/scripts/15.RDa" "/home/s2936941/raket/scripts/16.RDa"
+[17] "/home/s2936941/raket/scripts/17.RDa" "/home/s2936941/raket/scripts/18.RDa"
+[19] "/home/s2936941/raket/scripts/19.RDa" "/home/s2936941/raket/scripts/20.RDa"
+[21] "/home/s2936941/raket/scripts/21.RDa" "/home/s2936941/raket/scripts/22.RDa"
+[23] "/home/s2936941/raket/scripts/23.RDa" "/home/s2936941/raket/scripts/24.RDa"
+[25] "/home/s2936941/raket/scripts/25.RDa" "/home/s2936941/raket/scripts/26.RDa"
+[27] "/home/s2936941/raket/scripts/27.RDa" "/home/s2936941/raket/scripts/28.RDa"
+[29] "/home/s2936941/raket/scripts/29.RDa" "/home/s2936941/raket/scripts/30.RDa"
+[31] "/home/s2936941/raket/scripts/31.RDa" "/home/s2936941/raket/scripts/32.RDa"
+[33] "/home/s2936941/raket/scripts/33.RDa" "/home/s2936941/raket/scripts/34.RDa"
+[35] "/home/s2936941/raket/scripts/35.RDa" "/home/s2936941/raket/scripts/36.RDa"
+[37] "/home/s2936941/raket/scripts/37.RDa" "/home/s2936941/raket/scripts/38.RDa"
+[39] "/home/s2936941/raket/scripts/39.RDa" "/home/s2936941/raket/scripts/40.RDa"
+[41] "/home/s2936941/raket/scripts/41.RDa" "/home/s2936941/raket/scripts/42.RDa"
+[43] "/home/s2936941/raket/scripts/43.RDa" "/home/s2936941/raket/scripts/44.RDa"
+[45] "/home/s2936941/raket/scripts/45.RDa" "/home/s2936941/raket/scripts/46.RDa"
+[47] "/home/s2936941/raket/scripts/47.RDa" "/home/s2936941/raket/scripts/48.RDa"
+[49] "/home/s2936941/raket/scripts/49.RDa" "/home/s2936941/raket/scripts/50.RDa"
+[51] "/home/s2936941/raket/scripts/51.RDa" "/home/s2936941/raket/scripts/52.RDa"
+[53] "/home/s2936941/raket/scripts/53.RDa" "/home/s2936941/raket/scripts/54.RDa"
+[55] "/home/s2936941/raket/scripts/55.RDa" "/home/s2936941/raket/scripts/56.RDa"
+[57] "/home/s2936941/raket/scripts/57.RDa" "/home/s2936941/raket/scripts/58.RDa"
+[59] "/home/s2936941/raket/scripts/59.RDa" "/home/s2936941/raket/scripts/60.RDa"
+[61] "/home/s2936941/raket/scripts/61.RDa" "/home/s2936941/raket/scripts/62.RDa"
+[63] "/home/s2936941/raket/scripts/63.RDa" "/home/s2936941/raket/scripts/64.RDa"
+
+
+###############################################################################
+Peregrine Cluster
+Job 1305136 for user 's2936941'
+Finished at: Mon May 28 19:07:13 CEST 2018
+
+Job details:
+============
+
+Name                : create_input_files_general
+User                : s2936941
+Partition           : regular
+Nodes               : pg-node027
+Cores               : 1
+State               : COMPLETED
+Submit              : 2018-05-28T19:07:09
+Start               : 2018-05-28T19:07:09
+End                 : 2018-05-28T19:07:13
+Reserved walltime   : 01:00:00
+Used walltime       : 00:00:04
+Used CPU time       : 00:00:01 (efficiency: 44.07%)
+% User (Computation): 57.18%
+% System (I/O)      : 42.77%
+Mem reserved        : 1G/node
+Max Mem used        : 0.00  (pg-node027)
+Max Disk Write      : 0.00  (pg-node027)
+Max Disk Read       : 0.00  (pg-node027)
+
+
+Acknowledgements:
+=================
+
+Please see this page if you want to acknowledge Peregrine in your publications:
+
+https://redmine.hpc.rug.nl/redmine/projects/peregrine/wiki/ScientificOutput
+
+################################################################################

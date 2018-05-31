@@ -1,0 +1,41 @@
+slurmstepd: error: Unable to create TMPDIR [/local/1305143]: Permission denied
+slurmstepd: error: Setting TMPDIR to /tmp
+raket::create_output_file("4.RDa","out_4.RDa")
+
+
+###############################################################################
+Peregrine Cluster
+Job 1305187 for user 's2936941'
+Finished at: Mon May 28 19:56:48 CEST 2018
+
+Job details:
+============
+
+Name                : create_output_file
+User                : s2936941
+Partition           : regular
+Nodes               : pg-node208
+Cores               : 1
+State               : COMPLETED
+Submit              : 2018-05-28T19:08:37
+Start               : 2018-05-28T19:13:28
+End                 : 2018-05-28T19:56:48
+Reserved walltime   : 1-16:00:00
+Used walltime       :   00:43:20
+Used CPU time       :   00:43:16 (efficiency: 99.87%)
+% User (Computation): 99.88%
+% System (I/O)      :  0.12%
+Mem reserved        : 20G/node
+Max Mem used        : 907.09M (pg-node208)
+Max Disk Write      : 61.44K (pg-node208)
+Max Disk Read       : 1.54M (pg-node208)
+
+
+Acknowledgements:
+=================
+
+Please see this page if you want to acknowledge Peregrine in your publications:
+
+https://redmine.hpc.rug.nl/redmine/projects/peregrine/wiki/ScientificOutput
+
+################################################################################

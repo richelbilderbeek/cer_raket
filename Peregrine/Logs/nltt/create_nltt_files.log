@@ -1,0 +1,102 @@
+Submitted batch job 1309005
+Submitted batch job 1309006
+Submitted batch job 1309007
+Submitted batch job 1309008
+Submitted batch job 1309009
+Submitted batch job 1309010
+Submitted batch job 1309011
+Submitted batch job 1309012
+Submitted batch job 1309013
+Submitted batch job 1309014
+Submitted batch job 1309015
+Submitted batch job 1309016
+Submitted batch job 1309017
+Submitted batch job 1309018
+Submitted batch job 1309019
+Submitted batch job 1309020
+Submitted batch job 1309021
+Submitted batch job 1309022
+Submitted batch job 1309023
+Submitted batch job 1309024
+Submitted batch job 1309025
+Submitted batch job 1309026
+Submitted batch job 1309027
+Submitted batch job 1309028
+Submitted batch job 1309029
+Submitted batch job 1309030
+Submitted batch job 1309031
+Submitted batch job 1309032
+Submitted batch job 1309033
+Submitted batch job 1309034
+Submitted batch job 1309035
+Submitted batch job 1309036
+Submitted batch job 1309037
+Submitted batch job 1309038
+Submitted batch job 1309039
+Submitted batch job 1309040
+Submitted batch job 1309041
+Submitted batch job 1309042
+Submitted batch job 1309043
+Submitted batch job 1309044
+Submitted batch job 1309045
+Submitted batch job 1309046
+Submitted batch job 1309047
+Submitted batch job 1309048
+Submitted batch job 1309049
+Submitted batch job 1309050
+Submitted batch job 1309051
+Submitted batch job 1309052
+Submitted batch job 1309053
+Submitted batch job 1309054
+Submitted batch job 1309055
+Submitted batch job 1309056
+Submitted batch job 1309057
+Submitted batch job 1309058
+Submitted batch job 1309059
+Submitted batch job 1309060
+Submitted batch job 1309061
+Submitted batch job 1309062
+Submitted batch job 1309063
+Submitted batch job 1309064
+Submitted batch job 1309065
+Submitted batch job 1309066
+Submitted batch job 1309067
+Submitted batch job 1309068
+
+
+###############################################################################
+Peregrine Cluster
+Job 1309004 for user 's2936941'
+Finished at: Tue May 29 22:05:05 CEST 2018
+
+Job details:
+============
+
+Name                : create_nltt_files
+User                : s2936941
+Partition           : regular
+Nodes               : pg-node007
+Cores               : 1
+State               : COMPLETED
+Submit              : 2018-05-29T22:04:30
+Start               : 2018-05-29T22:04:56
+End                 : 2018-05-29T22:05:03
+Reserved walltime   : 01:00:00
+Used walltime       : 00:00:07
+Used CPU time       : --
+% User (Computation): 59.21%
+% System (I/O)      : 40.63%
+Mem reserved        : 1G/node
+Max Mem used        : 0.00  (pg-node007)
+Max Disk Write      : 0.00  (pg-node007)
+Max Disk Read       : 0.00  (pg-node007)
+
+
+Acknowledgements:
+=================
+
+Please see this page if you want to acknowledge Peregrine in your publications:
+
+https://redmine.hpc.rug.nl/redmine/projects/peregrine/wiki/ScientificOutput
+
+################################################################################

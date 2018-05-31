@@ -1,0 +1,166 @@
+10.RDa
+Submitted batch job 1305144
+11.RDa
+Submitted batch job 1305145
+12.RDa
+Submitted batch job 1305146
+13.RDa
+Submitted batch job 1305147
+14.RDa
+Submitted batch job 1305148
+15.RDa
+Submitted batch job 1305149
+16.RDa
+Submitted batch job 1305150
+17.RDa
+Submitted batch job 1305151
+18.RDa
+Submitted batch job 1305152
+19.RDa
+Submitted batch job 1305153
+1.RDa
+Submitted batch job 1305154
+20.RDa
+Submitted batch job 1305155
+21.RDa
+Submitted batch job 1305156
+22.RDa
+Submitted batch job 1305157
+23.RDa
+Submitted batch job 1305158
+24.RDa
+Submitted batch job 1305159
+25.RDa
+Submitted batch job 1305160
+26.RDa
+Submitted batch job 1305161
+27.RDa
+Submitted batch job 1305162
+28.RDa
+Submitted batch job 1305163
+29.RDa
+Submitted batch job 1305164
+2.RDa
+Submitted batch job 1305165
+30.RDa
+Submitted batch job 1305166
+31.RDa
+Submitted batch job 1305167
+32.RDa
+Submitted batch job 1305168
+33.RDa
+Submitted batch job 1305169
+34.RDa
+Submitted batch job 1305170
+35.RDa
+Submitted batch job 1305171
+36.RDa
+Submitted batch job 1305172
+37.RDa
+Submitted batch job 1305173
+38.RDa
+Submitted batch job 1305174
+39.RDa
+Submitted batch job 1305175
+3.RDa
+Submitted batch job 1305176
+40.RDa
+Submitted batch job 1305177
+41.RDa
+Submitted batch job 1305178
+42.RDa
+Submitted batch job 1305179
+43.RDa
+Submitted batch job 1305180
+44.RDa
+Submitted batch job 1305181
+45.RDa
+Submitted batch job 1305182
+46.RDa
+Submitted batch job 1305183
+47.RDa
+Submitted batch job 1305184
+48.RDa
+Submitted batch job 1305185
+49.RDa
+Submitted batch job 1305186
+4.RDa
+Submitted batch job 1305187
+50.RDa
+Submitted batch job 1305188
+51.RDa
+Submitted batch job 1305189
+52.RDa
+Submitted batch job 1305190
+53.RDa
+Submitted batch job 1305191
+54.RDa
+Submitted batch job 1305192
+55.RDa
+Submitted batch job 1305193
+56.RDa
+Submitted batch job 1305194
+57.RDa
+Submitted batch job 1305195
+58.RDa
+Submitted batch job 1305196
+59.RDa
+Submitted batch job 1305197
+5.RDa
+Submitted batch job 1305198
+60.RDa
+Submitted batch job 1305199
+61.RDa
+Submitted batch job 1305200
+62.RDa
+Submitted batch job 1305201
+63.RDa
+Submitted batch job 1305202
+64.RDa
+Submitted batch job 1305203
+6.RDa
+Submitted batch job 1305204
+7.RDa
+Submitted batch job 1305205
+8.RDa
+Submitted batch job 1305206
+9.RDa
+Submitted batch job 1305207
+
+
+###############################################################################
+Peregrine Cluster
+Job 1305143 for user 's2936941'
+Finished at: Mon May 28 19:08:37 CEST 2018
+
+Job details:
+============
+
+Name                : allocation
+User                : s2936941
+Partition           : 
+Nodes               : pg-node027
+Cores               : 1
+State               : PENDING
+Submit              : 2018-05-28T19:08:35
+Start               : 2018-05-28T19:08:36
+End                 : --
+Reserved walltime   : --
+Used walltime       : 00:00:01
+Used CPU time       : --
+% User (Computation): 59.95%
+% System (I/O)      : 40.05%
+Mem reserved        : 0/node
+Max Mem used        : 0.00  (pg-node027)
+Max Disk Write      : 0.00  (pg-node027)
+Max Disk Read       : 0.00  (pg-node027)
+
+
+Acknowledgements:
+=================
+
+Please see this page if you want to acknowledge Peregrine in your publications:
+
+https://redmine.hpc.rug.nl/redmine/projects/peregrine/wiki/ScientificOutput
+
+################################################################################
