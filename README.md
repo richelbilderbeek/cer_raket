@@ -8,11 +8,11 @@ Github for the Community Ecology Research course.
 
 ### Future
 
- * [ ] TH 2018-05-31 11:00-14:00 Practice rough presentation and feedback on poster, with other theoreticians
  * [ ] MO 2018-06-04 Presentation
- * [ ] MO 2018-06-04 After presentation: informal evaluation at pub to be determined
+ * [ ] MO 2018-06-04 After presentation: discuss grades
+ * [ ] MO 2018-06-04 After grading: informal evaluation
+ * [ ] MO 2018-06-04 16:00 even more informal evaluation at cafe de Minnaar
  * [ ] MO 2018-06-04 20:00 [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
- * [ ] TU 2018-06-05 9:40-10:00 Final grade at Rampal's office
 
 ### Past
 
@@ -71,6 +71,7 @@ Github for the Community Ecology Research course.
    * [x] Rough presentation,
    * [ ] Rough poster
  * [x] MO 2018-05-28 20:00 Extra [Giacomonday](https://github.com/richelbilderbeek/giacomonday) at cafe De Minnaar
+ * [x] TH 2018-05-31 11:00-14:00 Practice rough presentation and feedback on poster, with other theoreticians
 
 ### Overview
 
