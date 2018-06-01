@@ -126,3 +126,7 @@ GitHub username|Name
 `mcrillo`|Marina Costa Rillo
 `RaphSch`|Raphael Scherrer
 
+## References
+
+ * `etienne_rosindell_2012`: Etienne, Rampal S., and James Rosindell. "Prolonging the past counteracts the pull of the present: protracted speciation can explain observed slowdowns in diversification." Systematic Biology 61.2 (2012): 204-213.
+ * `etienne_et_al_2011`: Diversity-dependence brings molecular phylogenies closer to agreement with the fossil record. Rampal S. Etienne, Bart Haegeman, Tanja Stadler, Tracy Aze, Paul N. Pearson, Andy Purvis, Albert B. Phillimore
